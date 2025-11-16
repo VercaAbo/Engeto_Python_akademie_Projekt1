@@ -4,6 +4,7 @@ Tento projekt je součástí Engeto Python akademie. Jde o analyzátor textu - z
 
 příklad výstupu:
 
+```
 There are 74 words in the selected text.
 There are 4 titlecase words.
 There are 0 uppercase words.
@@ -23,3 +24,4 @@ LEN|          OCCURRENCES          |NR.
 8  | ******                        | 6
 9  | ***                           | 3
 10 | ***                           | 3
+```
